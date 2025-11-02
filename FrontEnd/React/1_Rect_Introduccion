@@ -1,1 +1,39 @@
+Clase numero_1 de React.
+
+¿Que es ract?
+
+Es una libreria de  interfaces graficas desarrolladas por facebook, se hablo sobre 
+la historia de react gracias a facebook. 
+
+Todas las aplicaciones en el entorno facebook usan react.
+
+Las librerias Reactivas ahora estan presentes con muchas mas frecuencias,
+se usa la arquitectura de consumo de APIS por parte del front.
+
+
+Se introduce el concepto de componentes, file component.
+
+Se hace programacion reactiva a componente, idea general es una libreria,
+no es un framework, es una libreria, que lo unico que hace es crear interfaces de 
+usuario dinamicas.
+
+Internamente react trabaja con los componentes, y vuelve a renderizar el virtual dom.
+
+¿Por que usarlo?
+Tiene un alto rendimiento ?
+El alto rendimineto tiene que ver con las buenas practicas de programacion, aunque se puede 
+decir que tiene una grancantidad de documentacion, 
+ventajas de ract, facebook respira react en varios de sus proyectos.
+
+-Compatibilidad con versiones anteriores: la migracion es retrocompatible, 
+
+-Estructuras faciles de componer: 
+-Fuerte comunidad: tiene una gran cantidad de colaboradores
+-Documentacion MultiIdioma
+-Flujo de datos unidireccional:
+
+
+Hay que tener claro los concepto de javascript 
+hay que dominar la parte sintatctica de javascript 
+hay que dominar la parte del dom 
 
